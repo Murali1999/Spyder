@@ -10,3 +10,4 @@ It performs the following:
 - Banner grabbing
 
 ![Spyder](master/spyder.png?raw=true)
+<img width="460" height="300" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder.png">
