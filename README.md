@@ -13,4 +13,4 @@ It performs the following:
 <img width="460" height="151" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder.png">
 
 **Sample shot of the tool:**
-<img width="1398" height="762" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder2.png">
+<img width="1200" height="700" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder2.png">
