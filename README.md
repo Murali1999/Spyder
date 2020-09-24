@@ -9,5 +9,4 @@ It performs the following:
 - Google dorking
 - Banner grabbing
 
-![Spyder](master/spyder.png?raw=true)
-<img width="460" height="300" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder.png">
+<img width="460" height="151" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder.png">
