@@ -1,6 +1,6 @@
 # Spyder (Major Project)
 
-Spyder is a Passive Reconnaissance and OSINT based tool used for passive reconnaisance.
+Spyder is a **Passive Reconnaissance** and **OSINT** based tool used for passive reconnaisance.
 
 It performs the following:
 - DNS resolution
@@ -9,4 +9,4 @@ It performs the following:
 - Google dorking
 - Banner grabbing
 
-![Spyder](https://github.com/[Murali1999/Spyder-Major-Project/blob/master/spyder.png)
+![Spyder](https://github.com/Murali1999/Spyder-Major-Project/blob/master/spyder.png)
