@@ -10,4 +10,4 @@ It performs the following:
 - Banner grabbing
 
 **Sample shot of the tool:**
-<img width="1200" height="700" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder2.png">
+<img width="900" height="500" src="https://github.com/Murali1999/Spyder-Major-Project-/blob/master/spyder2.png">
