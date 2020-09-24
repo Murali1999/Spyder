@@ -9,4 +9,4 @@ It performs the following:
 - Google dorking
 - Banner grabbing
 
-![alt text](https://github.com/[Murali1999/Spyder-Major-Project/blob/master/spyder.png?raw=true)
+![Spyder](https://github.com/[Murali1999/Spyder-Major-Project/blob/master/spyder.png?raw=true)
