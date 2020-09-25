@@ -7,3 +7,6 @@ wget https://raw.githubusercontent.com/robwillisinfo/cms-detector.py/master/cms-
 
 #tool for banner; already pre installed, but you can install if needed
 apt-get install figlet
+
+#google dorks list
+wget https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt
