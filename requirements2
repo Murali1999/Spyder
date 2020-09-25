@@ -1,3 +1,9 @@
 #!/bin/bash
-git clone https://github.com/Tuhinshubhra/CMSeeK
+
+#bash script to get other tools and requirements
+
+#cms detector code
+wget https://raw.githubusercontent.com/robwillisinfo/cms-detector.py/master/cms-detector.py
+
+#tool for banner; already pre installed, but you can install if needed
 apt-get install figlet
