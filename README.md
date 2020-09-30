@@ -4,11 +4,13 @@
 Spyder is a *Reconnaissance* and *OSINT* based tool used for passive reconnaisance and active reconnaissance.
 
 Passive reconnaissance includes the following:
-- DNS resolution
+- DNS Lookups
 - CMS scanning
 - WAF detection
 - Google dorking
 - Banner grabbing
+- Email gathering
+- Subdomain crawling
 
 Active reconnaissance includes the following:
 [Still in development]
