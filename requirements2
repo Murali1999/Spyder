@@ -10,3 +10,9 @@ apt-get install figlet
 
 #google dorks list
 wget https://raw.githubusercontent.com/BullsEye0/google_dork_list/master/google_Dorks.txt
+
+#subdomain enumerating tool
+git clone https://github.com/aboul3la/Sublist3r.git
+
+#web application xss scanner
+https://github.com/faizann24/XssPy.git
