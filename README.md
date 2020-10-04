@@ -1,7 +1,7 @@
 # Spyder
 ### (Major Project)
 
-Spyder is a *Reconnaissance* and *OSINT* based tool used for passive reconnaisance and active reconnaissance.
+Spyder is a *Reconnaissance* and *OSINT* based tool built for passive reconnaisance and active reconnaissance.
 
 Passive reconnaissance includes the following:
 - DNS Lookups
