@@ -21,6 +21,6 @@ Active reconnaissance includes the following:
 - Endpoint vulnerability detection
 
 **Sample shot of the tool:**
-<img width="900" height="500" src="https://github.com/Murali1999/Spyder/blob/master/mainpage.png">
+<img width="900" height="900" src="https://github.com/Murali1999/Spyder/blob/master/mainpage.png">
 
 **[This is an open source tool. Modifications and additions can be made according to your specifications.]**
