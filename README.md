@@ -13,9 +13,14 @@ Passive reconnaissance includes the following:
 - Subdomain crawling
 
 Active reconnaissance includes the following:
-[Still in development]
+- Fast port scanner
+- Directory bruteforcing
+- SSL vulnerability detection
+- XSS vulnerability scan
+- Full vulnerability scanning
+- Endpoint vulnerability detection
 
 **Sample shot of the tool:**
 <img width="900" height="500" src="https://github.com/Murali1999/Spyder/blob/master/spyder2.png">
 
-**[This tool is still in development. Thank you for your patience.]**
+**[This is an open source tool. Modifications and additions can be made according to your specifications.]**
