@@ -1,5 +1,5 @@
 # Spyder
-### (Major Project)
+### (Major Project 1)
 
 Spyder is a *Reconnaissance* and *OSINT* based tool built for passive reconnaisance and active reconnaissance.
 
